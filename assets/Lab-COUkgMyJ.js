@@ -1,0 +1,1 @@
+import{c as e,t,u as n}from"./index-Cu04zggu.js";function r(){return e(`Lab`),n(`main`,{id:`main`,children:n(`section`,{className:`wrap section`,children:[n(`div`,{className:`label-row`,children:n(`h1`,{children:`Lab`})}),n(`div`,{className:`tiles lab-tiles`,children:t.map(e=>n(e.Component,{},e.slug))})]})})}export{r as Lab};
